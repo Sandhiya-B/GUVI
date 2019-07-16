@@ -1,2 +1,2 @@
-number = input()
-print(len(number))
+x=input()
+print(len(x))
